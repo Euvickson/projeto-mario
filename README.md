@@ -1,4 +1,4 @@
-# projeto-mario
+# Projeto Mario
 
 Projeto feito durante o evento do canal do dev em dobro, onde foi ensinados conceitos sobre HTML, CSS e JavaScript e foi feito um projeto simples, uma página contendo informações sobre o personagem de vídeo-game, Mario, e um botão para assistir ao recente lançado trailer do filme
 
